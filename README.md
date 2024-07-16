@@ -11,10 +11,8 @@ A Flutter package for visualizing audio data in a customizable and interactive w
 - Configurable parameters for noise threshold, band count, and more.
 - Example application to demonstrate usage.
 
-<video width="600" controls>
-  <source src="assets/example.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/bafae32e-0ba0-4b61-9f4c-d34ef624f8c0
 
 
 
