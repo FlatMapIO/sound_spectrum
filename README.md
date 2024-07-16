@@ -24,6 +24,7 @@ Add the package to your `pubspec.yaml` file:
 dependencies:
   sound_spectrum:
     git: https://github.com/FlatMapIO/sound_spectrum.git
+    ref: main
 
 ```
 
