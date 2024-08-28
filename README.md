@@ -1,7 +1,7 @@
 # sound_spectrum
 
 
-**WARN: flutter_soloud [removes audio capture completely](https://github.com/alnitak/flutter_soloud/pull/106), so this library will not work properly.**
+**WARN: flutter_soloud has removed the audio capture feature, and sound_spectrum is currently waiting for a new solution..**
 
 A Flutter package for visualizing audio data in a customizable and interactive way.
 
