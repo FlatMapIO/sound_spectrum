@@ -38,9 +38,9 @@ dependencies:
   sound_spectrum:
     path: ../
   permission_handler: ^11.3.1
-  flutter_soloud:
+  flutter_recorder:
     git:
-      url: https://github.com/alnitak/flutter_soloud.git
+      url: https://github.com/alnitak/flutter_recorder.git
       ref: main
 dev_dependencies:
   flutter_test:
