@@ -1,11 +1,11 @@
 # sound_spectrum
 
 
-**WARN: flutter_soloud has removed the audio capture feature, and sound_spectrum is currently waiting for a new solution..**
+**This package now uses the `flutter_recorder` plugin for audio capture.**
 
 A Flutter package for visualizing audio data in a customizable and interactive way.
 
-**Current Status**: This package is not yet published on pub.dev. The reason for this is that `sound_spectrum` currently depends on the `flutter_soloud` package, which is only available as a Git source. We plan to publish `sound_spectrum` on pub.dev once `flutter_soloud` is officially released.
+**Current Status**: This package is not yet published on pub.dev. The reason for this is that `sound_spectrum` currently depends on the `flutter_recorder` package, which is only available as a Git source. We plan to publish `sound_spectrum` on pub.dev once `flutter_recorder` is officially released.
 
 
 ## Features
